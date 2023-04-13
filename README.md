@@ -14,7 +14,7 @@ Inputs are ESD protected with bidirectional TVS diodes. Not required, but nice t
 
 Opamps can be NE5532 or LM4562 or any other with good unity gain stability. 
 
-Input XLR connectors are Neutrik NC3FAAH2.
+Input XLR connectors are Neutrik NCJ6FA-H.
 
 Capacitors for input low pass filters are C0G or NP0 type. Decoupling capacitors are X7R 100nF or higher (1uF - 10uF will work great).
 
