@@ -1,0 +1,14 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"D4,D3,D2,D1";"D_SOD-123F";4;"SMF6.0CA";;;
+2;"U2,U1";"SOIC-8_3.9x4.9mm_P1.27mm";2;"LM4562";;;
+3;"R10,R9,R8,R7";"R_1206_3216Metric";4;"47K";;;
+4;"R6,R5";"R_1206_3216Metric";2;"2M2";;;
+5;"R4,R3,R2,R1";"R_1206_3216Metric";4;"100R";;;
+6;"C8,C7,C6,C5";"C_1206_3216Metric";4;"220p";;;
+7;"C4,C3,C2,C1";"C_1206_3216Metric";4;"100n";;;
+8;"H2,H1";"MountingHole_3.5mm_Pad_Via";2;"MountingHole";;;
+9;"J2";"Jack_XLR_Neutrik_NC3FAAH2_Horizontal_centered";1;"CH2_XLR";;;
+10;"J1";"Jack_XLR_Neutrik_NC3FAAH2_Horizontal_centered";1;"CH1_XLR";;;
+11;"J5";"TerminalBlock_ Amphenol_01_03_P3.50mm";1;"CH2_OUT";;;
+12;"J4";"TerminalBlock_ Amphenol_01_03_P3.50mm";1;"CH1_OUT";;;
+13;"J3";"TerminalBlock_ Amphenol_01_03_P3.50mm";1;"POWER";;;
